@@ -1,7 +1,7 @@
 {
   "name": "DevLinks",
   "version": "0.1.0",
-  "homepage": "http://Team-JJ-Developers.github.io/DevsLinks",
+  "homepage": "http://team-jj-developers.github.io/DevsLinks",
 "scripts": {
     "dev": "vite",
     "build": "vite build",
