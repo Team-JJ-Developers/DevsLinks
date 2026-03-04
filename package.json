@@ -1,15 +1,12 @@
 {
-  "name": "DevsLinks",
+  "name": "devslinks",
   "version": "0.1.0",
-  "homepage": "http://team-jj-developers.github.io/DevsLinks",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist" 
+},
 
   "dependencies": {
     "@tailwindcss/vite": "^4.2.1",
